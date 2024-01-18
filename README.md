@@ -18,6 +18,8 @@ Input Fields: {Roll-No, Full-Name, Class, Birth-Date, Address, Enrollment-Date}
 Primary key: Roll No.
 # DashBoard
 ![Dashboard](https://github.com/Anjali182003/login2Xplore/assets/103763691/e57250f6-373d-4fd2-8ac3-602f01568f29)
+# Form
+![Simulation](https://github.com/Anjali182003/login2Xplore/assets/103763691/e8ab305b-4c20-4122-8845-118fadfd6d8b)
 # DataBase Table
 ![table](https://github.com/Anjali182003/login2Xplore/assets/103763691/16e07d8f-a768-4225-af4a-8878a975f345)
 
