@@ -10,6 +10,12 @@ Schema-free, Simple to use, Nimble and In-Memory database.
 It is built on top of one of the fastest and real-time data indexing engine - PowerIndeX.
 It is low level (raw) form of data and is also human readable.
 It helps developers in faster coding, in-turn reduces development cost.
+# Title of project
+Student Enrollment Form
+# Description
+Student Enrollment Form that will store data in STUDENT-TABLE relation of SCHOOL-DB database.
+Input Fields: {Roll-No, Full-Name, Class, Birth-Date, Address, Enrollment-Date}
+Primary key: Roll No.
 # DashBoard
 ![Dashboard](https://github.com/Anjali182003/login2Xplore/assets/103763691/e57250f6-373d-4fd2-8ac3-602f01568f29)
 # DataBase Table
