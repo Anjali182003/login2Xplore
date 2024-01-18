@@ -12,6 +12,10 @@ It is low level (raw) form of data and is also human readable.
 It helps developers in faster coding, in-turn reduces development cost.
 # DashBoard
 ![Dashboard](https://github.com/Anjali182003/login2Xplore/assets/103763691/e57250f6-373d-4fd2-8ac3-602f01568f29)
+# DataBase Table
+![table](https://github.com/Anjali182003/login2Xplore/assets/103763691/16e07d8f-a768-4225-af4a-8878a975f345)
+
+
 
 
 
